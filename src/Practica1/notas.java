@@ -122,7 +122,7 @@ public class notas {
 		/**
 		 * Muestra la nota final
 		 */
-		System.out.println(" nota definitiva es = "+ def);
+		System.out.println(" tu nota final es = "+ def);
 		
 	}
 	
