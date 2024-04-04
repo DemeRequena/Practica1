@@ -89,9 +89,9 @@ public class notas {
 	 */
 	
 	public void Calculonotas() {
-		acu1= nota1*0.35;
-		acu2 = nota2 * 0.35;
-		acu3 = nota3 * 0.30;
+		acu1= nota1*0.40;
+		acu2 = nota2 * 0.40;
+		acu3 = nota3 * 0.20;
 		
 		def = acu1 + acu2+ acu3;
 		
